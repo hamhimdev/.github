@@ -6,7 +6,7 @@ That doesn't mean we give up on everything though! Here are a few repos we are c
 [![Micro](https://github-readme-stats.vercel.app/api/pin/?username=hamhimdev&repo=micro&show_icons=true&theme=transparent)](https://github.com/hamhimdev/micro)
 [![honeycomb](https://github-readme-stats.vercel.app/api/pin/?username=hamhimdev&repo=honeycomb&show_icons=true&theme=transparent)](https://github.com/hamhimdev/honeycomb)
 [![unzorite](https://github-readme-stats.vercel.app/api/pin/?username=hamhimdev&repo=unzorite&show_icons=true&theme=transparent)](https://github.com/hamhimdev/unzorite)
-[![fruit](https://github-readme-stats.vercel.app/api/pin/?username=hamhimdev&repo=fruit&show_icons=true&theme=transparent)](https://github.com/hamhimdev/fruit)<br>
+[![fruit](https://github-readme-stats.vercel.app/api/pin/?username=hamhimdev&repo=gladvis&show_icons=true&theme=transparent)](https://github.com/hamhimdev/gladvis)<br>
 
 ### LINKS
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/mSTX67tHYb)
